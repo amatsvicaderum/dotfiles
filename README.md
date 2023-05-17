@@ -1,2 +1,2 @@
 # dotfiles
-my personal configs based on archcraft linux
+my personal configs for archcraft linux
