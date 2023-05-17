@@ -1,0 +1,45 @@
+/*
+ @-moz-document url-prefix("https://linuxfromscratch.org/"), url-prefix("https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"){}
+*/
+html{
+	box-sizing: border-box;
+	overflow-x: hidden;
+}
+.navbar, body{
+	background: #090909 !important;
+	color: #ddd !important;
+}
+a{
+	color: #ae70cc !important;
+	background: none !important;
+}
+.authorgroup, h1, h2, h3, h4, h5, h6{
+	color: #999 !important;
+	border: none !important;
+}
+.authorgroup , .title, .subtitle, .copyright, hr, .note, .admon, .package, .content, .configuration{
+	background: #0f0f0f !important;
+	border: none !important;
+}
+.authorgroup{
+	margin: 1em 0em !important;
+}
+.navbar, #leftmenu li, #leftmenulist, ul{
+	border-color: #000 !important;	
+	background: #0f0f0f !important;
+}
+#banner, #search{
+	display: flex !important;
+}
+
+img[src="/images/lfs-logo.png"]{
+	display: none !important;
+}
+pre, .cmd{
+	background:#000 !important;
+	color:#0a5 !important;
+	border: none !important;
+}
+.warning, .important{
+	color: #ff3236 !important;
+}

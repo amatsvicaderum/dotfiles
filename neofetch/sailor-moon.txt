@@ -1,0 +1,24 @@
+${c3}             ..;.${c4},c;,.${c3}.,
+${c3}        .,'°°  ${c4}.oXMWNXx:${c3}'''..
+${c3}               ${c4},KMMMMMXl${c3}   ::;.
+${c3}             ${c4}.,dXXKNMNl.${c3}     .:ll;.
+${c3}          ${c4}.lkKNMWX.XM0,${c3}        .:oo,.
+${c3}          ${c4}:XMMMWXXWMMO'${c3}          ,odc.
+${c3}           ${c4};MMK0o'KWWXl.${c3}          'odl'
+${c3}           ${c4},MMXd, cWNX0k;.${c3}         ,oxl.
+${c3}          ${c4}.kMMMWko WNx x0o.${c3}        .cdd:
+${c3}          ${c4};0MMMMW0kXW0: 'dd:.${c3}       ;dxo
+${c3}         ${c4};KMMMMMXl0  KXO. :kd,.${c3}     ,ddd
+${c3}        ${c4}.lNMMMMM0b   xWNkxx0Kk:.${c3}    ;ddd
+${c3}       ${c4}.cXMN0PWMK:    XWO;   kOc.${c3}  .lxxo
+${c3}       ${c4}:KMXx 'XMNxcdk0NXK0x;   ,,${c3}  ;ddd;
+${c3} .    ${c4}.kMMNXXxXWMNkcc:''°°:l;${c3}   ..,oddc.
+${c3}  ..  ${c4}.ckOxo;°'lXWx.        '${c3}   .;oddc.
+${c3}   ..          ${c4}.dWX:${c3}          .'lddo:.
+${c3}    .''.        ${c4},0Wl.${c3}       .,cdxdc'
+${c3}      .,;,'..   ${c4}.oNo.${c3}   ..,coddo:.
+${c3}        ..,:::::;o${c4}X0${c3}olcloddoc;'.
+${c3}            ..',;:k${c4}NX${c3}Oc;,'..
+${c3}                   ${c4}KMK;
+${c3}                   ${c4}dNk
+${c3}                   ${c4}'o

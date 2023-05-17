@@ -1,0 +1,34 @@
+/*
+https://www.deepl.com/
+*/
+* {
+  font-family: "Monospace", monospace !important;
+}
+.lmt--web .lmt__sides_container{
+  border : 0px solid !important;
+}
+#dl_translator {
+  padding: 1rem;
+}
+.lmt__sides_wrapper {
+  min-height: 85vh;
+}
+.dl_header_menu_v2,
+header {
+  display: none;
+}
+.lmt__textarea_container {
+  border-top: 0px solid #8aebff !important;
+  padding: 1rem !important;
+}
+.eSEOtericText {
+  display: none !important;
+}
+/*
+document
+.getElementsByTagName("textarea")[0]
+.setAttribute("spellcheck", "false");
+document
+.getElementsByTagName("textarea")[1]
+.setAttribute("spellcheck", "false");
+ */

@@ -1,0 +1,13 @@
+/*
+  vivaldi://flags
+    anonymize local IP
+    autodarkmode
+ */
+
+::selection {
+  background: #dc32ff;
+  color: #efefef;
+}
+#header {
+  display:none
+}
